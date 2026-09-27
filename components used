@@ -1,0 +1,17 @@
+Smart Trash Bot 
+
+An autonomous waste collection robot designed to assist with waste management.
+
+Components Used
+Microcontroller :Arduino Uno -2
+Sensors:Ultrasonic Sensor (HC-SR04), Moisture sensor, 
+  GSM Module .
+Actuators: Servo Motor (SG90) / DC Gear Motors
+Motor Driver : L298N Motor Driver Module
+Power Supply:*9V Battery / 18650 Li-ion Batteries
+Chassis:Custom Robot Chassis / Trash Bin Setup
+How it works:
+Detect - Move - Collect - Detect waste - Segregate - Monitor Bin Level - Send GSM alert 
+Output & Circuit Diagrams
+
+(See photos below)
